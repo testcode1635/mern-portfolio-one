@@ -1,0 +1,9 @@
+.menubar-profile-pic img {
+  width: 150px;
+  height: 150px;
+  border-radius: 90px;
+  display: flex;
+  vertical-align: middle;
+  margin: 0 auto;
+  margin-top: 40px;
+}
